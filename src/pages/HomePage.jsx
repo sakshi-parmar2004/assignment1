@@ -12,6 +12,7 @@ const HomePage = () => {
       {/* Main section */}
       <div className="bg-[#F7F8F9] p-10 flex-grow overflow-auto">
         <div className="flex gap-4">
+         {/*  section containing image and other user details */}
           <div className="relative ">
             <img
               src={img.img1}

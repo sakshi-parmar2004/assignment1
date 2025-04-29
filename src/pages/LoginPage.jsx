@@ -6,6 +6,7 @@ const LoginPage = () => {
 
     return (
         <div className="h-screen bg-[#F7F8F9] flex justify-center p-6">
+        {/* form section */}
             <form className="w-full max-w-md rounded-lg p-8 space-y-6">
                 <div className="text-left">
                     <h1 className="text-2xl font-bold text-[#1D2226] mb-2">Sign in to your PopX account</h1>

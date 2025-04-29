@@ -11,7 +11,7 @@ const SignUp = () => {
                     <h1 className="text-2xl font-bold text-[#1D2226] mb-10 font-rubik text-left">Create your PopX account</h1>
                    
                 
-                {/* {full name} */}
+                {/* full name */}
                 <div className="relative">
                     <label
                         htmlFor="email"
